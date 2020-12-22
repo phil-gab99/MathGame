@@ -12,7 +12,7 @@ import java.util.Random;
 * user-triggered events
 *
 * @author Philippe Gabriel
-* @version 1.5.3 2020-12-21
+* @version 1.5.5 2020-12-21
 ***/
 
 public class MainActivity extends AppCompatActivity {

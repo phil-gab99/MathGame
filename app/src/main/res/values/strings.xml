@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Math Game!</string>
+    <string name="submit_button">Submit</string>
+    <string name="fill">Enter an answer</string>
+    <string name="add">+</string>
+    <string name="correct">Correct count:</string>
+    <string name="wrong">Wrong count:</string>
+    <string name="defval">0</string>
 </resources>

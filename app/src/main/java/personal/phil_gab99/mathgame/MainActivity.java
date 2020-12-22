@@ -1,4 +1,4 @@
-package personal.philgab99.mathgame;
+package personal.phil_gab99.mathgame;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;

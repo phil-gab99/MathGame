@@ -12,14 +12,6 @@ dedicated android packages.
 XML is used for the main application interface window with which the user can
 interact with.
 
-Important!!
-
-Changes here
-
-Hello-World
-
-Testing
-
 ## Sources
 
 I would like to thank the author of [this webpage](https://www.androidauthority.com/first-project-for-android-development-826846/)

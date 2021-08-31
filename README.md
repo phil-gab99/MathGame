@@ -12,7 +12,9 @@ dedicated android packages.
 XML is used for the main application interface window with which the user can
 interact with.
 
-TESTING1!
+Important!!
+
+Changes here
 
 ## Sources
 
